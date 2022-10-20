@@ -3,7 +3,7 @@ class QDHomePageViewController : QDViewController {
 
 - (void)test {
         
-    NSLog(@"-----mangoFix--------test---");
+    NSLog(@"-----mangoFix--------test003---");
 
     
     
